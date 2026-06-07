@@ -10,6 +10,15 @@
 
 The system addresses the challenge of complex, scattered repair manuals by providing an intelligent interface for question answering, anomaly detection, and part recommendations. By democratizing access to repair knowledge, this project directly supports the **Right to Repair** movement and Sustainable Development Goals (SDG 9, 12, and 4).
 
+## Repository Layout
+
+- `frontend/` - React Native app
+- `backend/` - FastAPI backend
+- `scripts/` - startup and deployment scripts
+- `docs/` - consolidated project documentation
+- `backups/` - archived originals and safety copies
+- `model_qna/` - model assets and tokenizer/config files
+
 ---
 
 ## 🚀 Live Deployment
